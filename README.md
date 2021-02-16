@@ -1,1 +1,0 @@
-# 8queens_problem
